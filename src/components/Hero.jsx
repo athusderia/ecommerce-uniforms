@@ -78,7 +78,7 @@ export const Hero = () => {
               letterSpacing: "0.01em",
             }}
           >
-            Uniformes San Luis
+            San Luis Uniforms
           </h1>
         </div>
 
